@@ -1,7 +1,3 @@
-Here's a sample README file that you can use for your weather app on GitHub:
-
----
-
 # Weatherly
 
 **Weatherly** is a sleek and modern weather application that provides real-time weather updates for any location. The app is designed to be responsive, ensuring a seamless experience across all devices, from desktops to mobile phones.
